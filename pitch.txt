@@ -1,0 +1,25 @@
+[ ROTEIRO DE PITCH - CSIS (CyberNorte Secure Intelligence Services) ]
+[ Tempo estimado: 1 minuto e 30 segundos a 2 minutos ]
+[ Tom: Profissional, assertivo, confiante, transmitindo autoridade real e pragmatismo ]
+
+(Abertura: O Gancho e a Apresentação)
+"Olá. Meu nome é Christian Amarildo, sou Perito Judicial pelo TJPA, Arquiteto de Soluções e o fundador da CSIS — CyberNorte Secure Intelligence Services.
+
+(O Problema)
+Hoje, a segurança cibernética corporativa clássica sofre de um problema crônico: ela é inacessível, repleta de over-engineering, e os laudos costumam ser caixas-pretas desconectadas da realidade judicial e técnica da operação. Além disso, enfrentamos um apagão de mão de obra qualificada no mercado. Quando ocorre um incidente ou um ataque de ransomware, o negócio trava e a mitigação demora muito.
+
+(A Solução B2B)
+A CSIS existe para quebrar esse paradigma. Nós atuamos com Inteligência Forense e Ação Tática para blindar o seu negócio operando em modelo Bootstrapped-Lean: entregamos exatamente o que precisa ser feito sem engessar a sua empresa. Nossas soluções se concentram em Perícias Digitais avançadas, Testes de Invasão (Red Team) e mitigação clara de riscos operacionais.
+
+(O Grande Diferencial de Tração - O Flywheel)
+Mas como nós ganhamos escala com extrema qualidade num mercado que chora por talentos? 
+A resposta é o nosso ecossistema e o que chamamos de 'Talent Flywheel', a nossa Roda Virtuosa. 
+
+Enquanto nosso lado corporativo (o B2B) atende as empresas, a nossa frente educacional (o B2C) forma a tropa de elite. Nós possuímos trilhas próprias que pegam o talento desde o nível básico — aplicando habilidades em ambientes e vulnerabilidades reais e Bug Bounties — até a excelência no Report Writing, instigando o desenvolvimento tático-meritocrático. 
+
+Esse ciclo retroalimenta nossa operação: a comunidade ganha acesso e formação de ponta acessível baseada em execução prática, e a CSIS garante uma inteligência coletiva investigativa inigualável, sempre revisada e validada de forma Sênior.
+
+(Provas e Encerramento)
+Nós unimos tecnologia transparente, inteligência aplicada ao direito e uma engenharia social colaborativa. Cibersegurança de verdade é aquela que roda nas trincheiras e reduz o seu passivo.
+
+Convido você a conhecer nossos laudos e nossa comunidade. Proteja seu negócio ou junte-se ao nosso ecossistema: CSIS, inteligência tática e resolução no mundo real. Muito obrigado!"
