@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 
@@ -10,7 +10,7 @@ import { ArticlePage } from './pages/ArticlePage';
 
 export function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="min-h-screen bg-white font-sans selection:bg-brand-blue selection:text-white flex flex-col">
         <Navbar />
         <div className="flex-grow">
@@ -22,6 +22,6 @@ export function App() {
         </div>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
