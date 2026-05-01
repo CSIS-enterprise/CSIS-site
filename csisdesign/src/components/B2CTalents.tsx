@@ -49,7 +49,7 @@ export function B2CTalents() {
             </p>
 
             <img 
-              src="/images/csis_b2c_1776490187573.png" 
+              src={`${import.meta.env.BASE_URL}images/csis_b2c_1776490187573.png`} 
               alt="Hacker Student CSIS" 
               className="w-full h-auto aspect-video object-cover rounded-xl shadow-lg mb-8"
             />

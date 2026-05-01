@@ -86,7 +86,7 @@ export function Navbar() {
           <div className="flex justify-between items-center">
             {/* Logo */}
             <div className="flex items-center gap-3">
-              <img src="/logo.png" alt="CSIS Logo" className="w-10 h-10 object-contain drop-shadow-md" />
+              <img src={`${import.meta.env.BASE_URL}logo.png`} alt="CSIS Logo" className="w-10 h-10 object-contain drop-shadow-md" />
               <div className="flex flex-col">
                 <span className="text-2xl font-black text-brand-navy leading-none tracking-tight">
                   CSIS

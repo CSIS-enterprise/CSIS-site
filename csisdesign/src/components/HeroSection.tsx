@@ -6,7 +6,7 @@ export function HeroSection() {
     <section className="relative pt-40 pb-24 lg:pt-56 lg:pb-40 overflow-hidden bg-brand-navy">
       <div className="absolute inset-0 z-0 bg-brand-navy">
         <img 
-          src="/images/csis_hero_bg_1776490159314.png" 
+          src={`${import.meta.env.BASE_URL}images/csis_hero_bg_1776490159314.png`} 
           alt="CSIS Cyber Security Background" 
           className="absolute inset-0 w-full h-full object-cover opacity-30"
         />

@@ -82,7 +82,7 @@ export function B2BSolutions() {
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               className="flex-1 w-full relative">
-              <img src="/images/csis_b2b_1776490169939.png" alt="CSIS B2B Threat Hunting" className="rounded-xl shadow-2xl object-cover w-full h-[300px]" />
+              <img src={`${import.meta.env.BASE_URL}images/csis_b2b_1776490169939.png`} alt="CSIS B2B Threat Hunting" className="rounded-xl shadow-2xl object-cover w-full h-[300px]" />
               <div className="absolute inset-0 ring-1 ring-inset ring-black/10 rounded-xl"></div>
             </motion.div>
           </div>
